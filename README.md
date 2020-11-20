@@ -28,7 +28,12 @@
 		<img src="https://img.shields.io/badge/linuxmint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge" />
 				<a href="https://m4nifest0.com">
 		<img src="https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" />
-						
+					
+					
+## Legal disclaimer:
+
+Usage of ScreenSpy for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+
 ### Thanks to the developer of this app:
 - 🦠 https://github.com/thelinuxchoice/screenspy
 ### Getting chat source
